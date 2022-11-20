@@ -282,7 +282,7 @@ export const Showcases = [
     website: "https://pool.pm",
     source: null,
     tags: ["favorite", "explorer"],
-  },
+  },J
   {
     title: "Adafolio",
     description:
@@ -1102,6 +1102,15 @@ export const Showcases = [
     website: "https://www.taptools.io",
     source: null,
     tags: [ "analytics", "token", "minting"],
+  },
+ {
+    title: "Blockademia",
+    description:
+      ".Blockademia is a document verification system powered by Cardano blockchain that allows Publishers to issue documents in an original, fast and easy way, and end users to check them using the Blockademia.",
+    preview: require("./showcase/ACi_transparent_color_logo_only.png"),
+    website: "https://blockademia.com",
+    source: null,
+    tags: ["identity", "metadata"],
   },
 ];
 
